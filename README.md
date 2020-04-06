@@ -1,4 +1,4 @@
-//maintain git project
+# maintain git project
 
 git checkout -b <branch_name>
 
@@ -12,11 +12,11 @@ git checkout master
 
 git branch -d <branch_name>
 
-//upload changes
+# upload changes
 
 git push origin master
 
-//https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
+# [how to upload git project](https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line)
 
 cd karting4
 
